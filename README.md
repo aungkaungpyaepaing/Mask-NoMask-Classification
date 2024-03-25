@@ -5,7 +5,7 @@ This model is trained by Convolutional Neural Network and work pretty well based
 
 Imported Packages 
 - TensorFlow
-- -Numpy
+- Numpy
 - Matplotlib
 - CV2
 
