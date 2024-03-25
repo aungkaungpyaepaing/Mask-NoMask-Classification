@@ -67,3 +67,16 @@ Model Prediction and Result
 
 ![image](https://github.com/aungkaungpyaepaing/Mask-NoMask-Classification/assets/88584127/741b6de3-291c-4bb9-b019-04ede8f9e270)
 
+
+The dataset of this program is from here -> https://github.com/prajnasb/observations/tree/master/experiements/data
+
+
+
+<b>Problem Statement</b>
+
+Images that had used as a dataset doesn't include the masks with different colors. Although the model works well, the images that have been trained are with the masks with white color so the model sees the mask with different colors as no mask. 
+
+<b>Solution</b>
+
+Train the model with a dataset that includes every kind of desired mask.
+Use image processing techniques to detect the mask or mask shape before doing classification.
