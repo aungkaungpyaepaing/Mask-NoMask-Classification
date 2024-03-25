@@ -1,6 +1,6 @@
 <h1 align="center">Mask and No Mask Classifier</h1>
 
-After watching news about air pollution, just thought about making an Mask and No Mask Classification Model so that it can be used in different program like Real time detection program in Hotel, Hospital, Classroom, Work and so on...
+After watching the news about air pollution, just thought about making a Mask and No Mask Classification Model so that it can be used in different programs like Real-time detection programs in Hotel, Hospital, Classroom, Work, and so on...
 This model is trained by Convolutional Neural Network and work pretty well based on the database.
 
 Imported Packages 
@@ -12,11 +12,16 @@ Imported Packages
 
 Model Evaluation
 
-![image](https://github.com/aungkaungpyaepaing/Mask-NoMask-Classification/assets/88584127/beabef6f-4b37-4599-afcb-bb409fe0de71)
+![image](https://github.com/aungkaungpyaepaing/Mask-NoMask-Classification/assets/88584127/c3f56c71-f089-42d1-948b-1ef918f82cba)
+![image](https://github.com/aungkaungpyaepaing/Mask-NoMask-Classification/assets/88584127/7e04acbf-2c26-49d0-8e90-b309a63da345)
 
-![image](https://github.com/aungkaungpyaepaing/Mask-NoMask-Classification/assets/88584127/8b0fb3a3-be26-4252-800b-b5f3b12f70b6)
 
-Testing 
+Model Performance 
+
+![image](https://github.com/aungkaungpyaepaing/Mask-NoMask-Classification/assets/88584127/bf70d840-c4df-41f2-9057-584b8530cfa6)
+
+
+Testing Mask
 
 Process 1
 
@@ -37,8 +42,28 @@ Pre-processing image
 Process 3 
 
 
-Model prediction and Result
+Model Prediction and Result
 
 
 ![image](https://github.com/aungkaungpyaepaing/Mask-NoMask-Classification/assets/88584127/8f4f72da-fdb8-401d-8f03-f7524ec9c5e8)
+
+Process 4
+
+No mask image input
+
+
+![image](https://github.com/aungkaungpyaepaing/Mask-NoMask-Classification/assets/88584127/fc4f0fca-76e9-4d2c-973e-47e1254c74a9)
+
+Process 5 
+
+Pre-processing Image
+
+![image](https://github.com/aungkaungpyaepaing/Mask-NoMask-Classification/assets/88584127/db06c0f0-7e87-48f4-8fe6-384fdd97da72)
+
+
+Process 6
+
+Model Prediction and Result
+
+![image](https://github.com/aungkaungpyaepaing/Mask-NoMask-Classification/assets/88584127/741b6de3-291c-4bb9-b019-04ede8f9e270)
 
